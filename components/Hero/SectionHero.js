@@ -24,6 +24,7 @@ export default function SectionHero() {
           </div>
         </main>
       </Container>
+      <div className="absolute w-[460px] blur-[100px] h-[460px] bg-[#F494B1] -left-[202px] -top-[240px]"></div>
     </section>
   );
 }
