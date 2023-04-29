@@ -5,7 +5,7 @@ import NavRight from "./NavRight";
 
 export default function NavBar() {
   return (
-    <nav className="pt-12">
+    <nav className="relative z-50 pt-12">
       <Container>
         <div className="flex items-center justify-between">
           <NavLogo />
